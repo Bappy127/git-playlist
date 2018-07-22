@@ -1,4 +1,4 @@
-﻿console.log("hi this is nice tutorial....");
+console.log("hi this is nice tutorial....");
 console.log('do your worst');
 console.log( 'first! great tutorial!' );
 console.log( "I'll be a hardcore programmer!!! Thanks Shaun! From PeterAMD" );
@@ -11,6 +11,7 @@ console.log("Very good videos. Good job! :) ~Christoph")
 console.log("The net ninjs, Shaun, the best shinobi, woo");
 console.log("What's up guys, this is my first pull request! Thanks Shaun!");
 console.log("Great tutorial, Thanks a lot! msamancioglu");
+console.log("The tutorial was helpful, thanks.");
 
 function Track(song, artist, album, year, starReview){
   this.song = song;
